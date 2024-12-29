@@ -1,7 +1,7 @@
 # Natural Processing Language
 (NLP)
 Centro de Informática (UFPE)
-Alunos: Douglas Contente, José Paulo Cauás
+Alunos: Douglas Contente Pimentel Barboosa, José Paulo Cauás Tenório
 ## Link para o vídeo da apresentação
 https://www.youtube.com/watch?v=1ORW4hUGEiU
 ## Link para os notebooks
